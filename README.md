@@ -1,5 +1,5 @@
 # SpanBERT + MSA
-Code for NAACL 2022 paper "Modeling Multi-Granularity Hierarchical Features for Relation Extraction". 
+Code for NAACL 2022 paper [Modeling Multi-Granularity Hierarchical Features for Relation Extraction](https://aclanthology.org/2022.naacl-main.375/). 
 
 ## Requirements
 
